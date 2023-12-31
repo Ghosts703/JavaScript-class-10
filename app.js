@@ -4,9 +4,9 @@
 
 //--------------------------------------------------------------------------------------------------------------------------
 /* Math method in JAVASCRIPT */
-// Math.round
-// Math.ceil
-// Math.floor
+// Math.round       --> method will round off the value. 
+// Math.ceil        --> method will always increment the value by 1.
+// Math.floor       --> the value before the 'decimal point' will be displayed, 
 // Math.random()
 
 //--------------------------------------------------------------------------------------------------------------------------
@@ -47,6 +47,14 @@ var n4 = 48.3;
 // console.log(Math.round(n3));
 // console.log(Math.round(n4));
 
+console.log("----------------------------------------------------------------------------------------");
+console.log(Math.random());
+console.log(Math.random() * 2);
+console.log(Math.random() * 5);
+console.log(Math.random() * 13);
 
-
+console.log("----------------------------------------------------------------------------------------");
+console.log(Math.floor(Math.random() * 2));
+console.log(Math.floor(Math.random() * 5));
+console.log(Math.floor(Math.random() * 13));
 
