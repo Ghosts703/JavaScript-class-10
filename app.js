@@ -1,5 +1,5 @@
 
-// Class 10 - JS - Sir Saad - Farhan Ali - 31-dec-2023.
+// Class 10 - JS - Sir Saad - Farhan Ali - 31-dec-2023. //
 // Quiz related to Javascript on 31-dec-2023. Chapter 1 to 20.
 
 //--------------------------------------------------------------------------------------------------------------------------
